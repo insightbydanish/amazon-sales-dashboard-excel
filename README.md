@@ -19,3 +19,32 @@ Monthly sales trend analysis
 Customer rating comparison
 Discount impact on sales
 
+Key Insights
+‎Identified top-performing product category
+‎Found highest revenue generating region
+‎Analyzed most preferred payment method
+‎Observed monthly sales trends and patterns
+‎Average discount is approximately 13%
+‎
+‎🔹 Workflow
+‎Data Collection
+‎Data Cleaning
+‎Feature Engineering
+‎Pivot Table Analysis
+‎Dashboard Creation
+‎Insight Generation
+‎
+‎🔹 How to Use
+‎Download the Excel file
+‎Open in Microsoft Excel
+‎Go to Dashboard sheet
+‎Use slicers to filter data (Category, Region, Payment, Month)
+‎
+‎🔹 Files Included
+‎
+‎Amazon_Sales_Dashboard.xlsx
+‎dashboard.png
+‎Demo video 
+‎
+‎🔹 Author
+‎Danish
